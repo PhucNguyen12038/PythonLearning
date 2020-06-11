@@ -1,0 +1,6 @@
+unit3d.pdf
+12.12.16_aldo.pdf
+tempfile_fake.pdf.tmp
+price is 973.45
+p is 950
+bla bla 1,0003

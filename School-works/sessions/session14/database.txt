@@ -1,0 +1,4 @@
+firstname=Kalmer;lastname=Koopaorav;e-mail=kalko@gmail.com;phone=56785678
+firstname=Pets;phone=54342211
+lastname=Mukk;phone=234234234234;e-mail=ivar.mukk@mail.ee
+firstname=Malle;e-mail=malleke@ups.com;lastname=Maadeuurija;other=favorite

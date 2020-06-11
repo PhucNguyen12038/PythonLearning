@@ -1,0 +1,5 @@
+d = dict()
+d.update({'length':100})
+d.update({'width':50})
+d.update({'height':20})
+print(d)

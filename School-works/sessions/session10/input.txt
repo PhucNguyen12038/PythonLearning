@@ -1,0 +1,6 @@
+moveto(-100, -100)
+drawto(100, -100)
+drawto(100, 100)
+drawto(-100, 100)
+drawto(-100, 100)
+

@@ -1,0 +1,4 @@
+Uncle Juhan,4.5,0.2
+Laurenwagen,2,0.45
+Tartu Demon,1,0.75
+Luxtaxi,4,0.7
